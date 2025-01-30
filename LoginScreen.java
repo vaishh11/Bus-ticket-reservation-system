@@ -40,4 +40,3 @@ public class LoginScreen extends JFrame {
         });
     }
 }
-
